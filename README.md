@@ -13,7 +13,7 @@
   
 
 <div align="center">
-<img src="undefined" align="center" height="70" width="700" />
+
 </div>  
   
 
